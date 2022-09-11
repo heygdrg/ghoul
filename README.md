@@ -26,12 +26,14 @@ with the second option you will have to enter the proxy you want to chek and it 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/94129991/189517414-7d048126-49bf-4521-a32f-ed0da7fb0134.png", width="500", height="500">
 </p>
+
 -----
 
 ### <p align="center">📀 Dependencies 📀</p>
 
 <p align="center"><strong><i>In order for the program to work, you have to install all the ressources: </i></strong</p>
 <p align="center"><strong><i>Pystyle, Requests, Rich
+
 -----
 
 ### <p align="center">💡 Ideas 💡</p>
