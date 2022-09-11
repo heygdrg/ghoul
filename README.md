@@ -14,11 +14,11 @@
 <strong>
 Ghoul is a proxy scraper and cheker in Python3.
 <br><br>
-you will have two choice ; scrap, chek,
-<br>
-the first one will scrap 100 proxies and then it will chek them.
+You will have two choice ;scrap, chek.
 <br><br>
-with the second option you will have to enter the proxy you want to chek and it will try.
+The first one will scrap 100 proxies and then it will chek them.
+<br><br>
+With the second option you will have to enter the proxy you want to chek.
 <br><br><br>
 </strong>
 </p>
