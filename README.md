@@ -23,8 +23,9 @@ with the second option you will have to enter the proxy you want to chek and it 
 </strong>
 </p>
 <br>
+<p align="center">
 <img src="https://user-images.githubusercontent.com/94129991/189517414-7d048126-49bf-4521-a32f-ed0da7fb0134.png", width="500", height="500">
-
+</p>
 -----
 
 ### <p align="center">📀 Dependencies 📀</p>
