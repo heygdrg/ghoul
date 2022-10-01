@@ -32,6 +32,10 @@ def choice_2():
             console.print("{[green]![/green]}[green]alive proxy[/green]")
             hit = hit + 1
             alive = alive + 1
+            with open("proxy.txt", "a+") as file:
+                file.write(f"{proxy}\n")
+                file.close
+        
         else:
             hit = hit + 1
             dead = dead + 1
